@@ -1,0 +1,2 @@
+
+import "./globalConfig.js";
